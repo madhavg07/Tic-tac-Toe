@@ -1,3 +1,4 @@
 # Tic-tac-Toe
-hello hi
-how are u
+Hello Everyone..
+<br>
+I an sharing my first project in web development (frontend).
